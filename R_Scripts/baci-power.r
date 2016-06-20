@@ -2,12 +2,13 @@
 # 2014-02-26 CJS Added control () to the lmer() call to avoid problems with no sub-samples
 # 2013-02-04 CJS Added code to compute the one-sided power for the specified BACI contrast as well
 # 2013-12-16 CJS Modified code to deal with changes from new release of lmer()
-# New stuff!
 
-# NEW STUFF HI KEVIN
 # This function computes the power for a BACI design with multiple treatment
 # and control sites, multiple years measured before and after treatment is applied, and
 # sub-sampling at each year-site combination.
+#
+#
+# THIS IS MY NEW MERGE
 #
 # The information we need is:
 #     Alpha level (usually .05 or .10)
